@@ -5,7 +5,7 @@
 <BR>
 <BR>
 
-<p><img src="img/17.png"></p>
+<p align="center"><img width="600" src="img/17.png"></p>
 
 ## 1.1 Program Komputer
 <p align="justify">Anda mungkin pernah menggunakan komputer untuk bekerja atau bersenang-senang. Banyak orang menggunakan komputer untuk tugas sehari-hari seperti perbankan elektronik atau menulis makalah. Komputer adalah baik untuk tugas-tugas seperti itu. Mereka dapat menangani tugas berulang, seperti menjumlahkan angka atau menempatkan kata-kata di halaman, tanpa merasa bosan atau lelah.
@@ -166,7 +166,7 @@ Kode sumber:
 
 __section_5/HelloPrinter.java__
 
-<img src="img/13.png" width="600px">
+ <p align="center"><img src="img/13.png" width="600px"></p>
 
 <br>
 <br>
